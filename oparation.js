@@ -1,0 +1,11 @@
+var onionPrice = 20;
+// console.log(onionPrice);
+var eggPrice = 10;
+// console.log(eggPrice);
+// console.log(onionPrice + eggPrice);
+// var totalPrice = onionPrice + eggPrice;
+// console.log(totalPrice);
+var orangePrice = 20 ;
+var quantity = 7 ;
+var totalPrice=orangePrice * quantity ;
+console.log(totalPrice);
